@@ -1,0 +1,47 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 250px;
+    gap: 20px;
+    color: white;
+   
+}
+#input1{
+    width: 400px;
+    padding: 23px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(214, 214, 214);
+    display: flex;
+ 
+}
+.btn1{
+    width: 430px;
+    background-color: orange;
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+#input2{
+    width: 400px;
+    padding: 23px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(223, 223, 223);
+}
+   
+    
+ 
+.btn{
+    width: 430px;
+    background-color: rgb(239,64,15);
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
